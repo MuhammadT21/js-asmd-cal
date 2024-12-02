@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  margin: auto 0;
+  padding: 10px 500px;
+}
+
+input {
+  border-radius: 50px;
+}
+
+button {
+  border-radius: 50px;
+  width: 100px;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+body {
+  background-color: beige;
+}
